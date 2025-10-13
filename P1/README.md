@@ -239,6 +239,7 @@ WebGUI.showNumpy(temp_map)
 <img width="860px" src="https://github.com/GuilleAQ/Service-Robots_25-26/blob/main/P1/resources/figures/2.png">
 </div>
 
-[video demo at x4 speed](https://urjc-my.sharepoint.com/personal/g_alcocer_2020_alumnos_urjc_es/_layouts/15/stream.aspx?id=%2Fpersonal%2Fg%5Falcocer%5F2020%5Falumnos%5Furjc%5Fes%2FDocuments%2FRescuePeople%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E9eec89b8%2De8cc%2D4779%2Da82f%2D6a587ef9327e)
+[video demo at x16 speed](https://urjc-my.sharepoint.com/:v:/g/personal/g_alcocer_2020_alumnos_urjc_es/ESDepUTk_G9BsrUnhz8-7uQBwF1a503OcUpUGkW6uDrYVQ?e=9Iv4vq)
 
 ---
+
