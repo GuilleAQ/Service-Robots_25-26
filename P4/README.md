@@ -1,7 +1,7 @@
 # Amazon Warehouse
 
 <div align="center">
-<img width=600px src="https://github.com/GuilleAQ/SR_26_aux/blob/main/P4/resources/figures/1.png" alt="explode"></a> 
+<img width=600px src="https://github.com/GuilleAQ/Service-Robots_25-26/blob/main/P4/resources/figures/1.png" alt="explode"></a> 
 </div>
 
 <h3 align="center"> Amazon Warehouse </h3>
