@@ -1,7 +1,7 @@
 # Laser Mapping
 
 <div align="center">
-<img width=600px src="https://github.com/GuilleAQ/SR_26_aux/blob/main/P5/resources/figures/1.png" alt="explode"></a> 
+<img width=600px src="https://github.com/GuilleAQ/Service-Robots_25-26/blob/main/P5/resources/figures/1.png" alt="explode"></a> 
 </div>
 
 <h3 align="center"> Laser Mapping </h3>
